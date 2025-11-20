@@ -2,7 +2,6 @@
 This is a simple program that will blink an LED on/off 5 times with a 1 second delay using the libgpiod library.
 
 # How to run
-Run: 
 ```console
 gcc main.c -o main -lgpiod
 sudo ./main
