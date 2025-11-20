@@ -3,8 +3,10 @@ This is a simple program that will blink an LED on/off 5 times with a 1 second d
 
 # How to run
 Run: 
+```console
 gcc main.c -o main -lgpiod
-sudo main
+sudo ./main
+```
 
 # Required Hardware
 1 Raspberry Pi 5
